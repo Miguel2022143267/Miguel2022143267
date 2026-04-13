@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Miguel and I'm a Software Engineering student at Higher Institute of Engineering of Coimbra specializing in APP's Development.</p>
+<p align="left">My name is Miguel and I'm a Software Engineering student at Higher Institute of Engineering of Coimbra specializing in APP's Development and currently doing an intership at Haupper as part of my Curricular Program.</p>
 
 ###
 
